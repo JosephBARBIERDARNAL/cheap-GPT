@@ -1,4 +1,4 @@
-# cheap-GPT
+# cheap-GPT: for broke people
 
 ## Project Description
 
